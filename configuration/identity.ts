@@ -1,6 +1,6 @@
-export const OWNER_NAME: string = `[OWNER NAME]`;
-export const OWNER_DESCRIPTION: string = `[OWNER DESCRIPTION]`;
+export const OWNER_NAME: string = `Will`;
+export const OWNER_DESCRIPTION: string = `Self-Storage REIT Analyst`;
 
-export const AI_NAME: string = `[AI NAME]`;
-export const AI_TONE: string = `[AI TONE]`;
-export const AI_ROLE: string = `[AI ROLE]`;
+export const AI_NAME: string = `Knox`;
+export const AI_TONE: string = `Professional`;
+export const AI_ROLE: string = `10-K Researcher`;
